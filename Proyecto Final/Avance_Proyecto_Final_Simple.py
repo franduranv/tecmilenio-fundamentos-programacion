@@ -1,10 +1,12 @@
-"""
-Control de Contratos y Pagos - Edificio con 16 departamentos
-Avance de Proyecto Final - Fundamentos de Programación
-Alumno: [Tu nombre]
+#Control de Contratos y Pagos - Edificio con 16 departamentos
+#Avance de Proyecto Final - Fundamentos de Programación
+#Alumno: Francisco José Durán Vargas
+#Matricula: AL07193847
+#Fecha de entrega: Lunes 1 de Septiembre del 2025 a las 23:59
+#Programa: Ing. en Desarrollo de Software
+#Materia: Fundamentos de Programación
+#Docente: Jesús Carlos Morón García
 
-VERSIÓN SIMPLIFICADA
-"""
 
 # ===============================================
 # CLASES PRINCIPALES
