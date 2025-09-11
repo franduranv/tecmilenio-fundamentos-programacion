@@ -7,6 +7,23 @@
 #Materia: Fundamentos de Programación
 #Docente: Jesús Carlos Morón García
 
+"""
+Control de Contratos y Pagos (Edificio con 16 departamentos)
+-----------------------------------------------------------
+Uso:
+  1) Ejecuta el programa.
+  2) Ingresa año y mes actuales (1..12).
+  3) Ingresa cuántos contratos capturarás hoy.
+  4) Por inquilino: nombre, depto, tipo (3/4), mes/año de contrato,
+     renta histórica si aplica, meses y/o monto pagado en el año.
+  5) Revisa el resumen por inquilino y el total del edificio.
+
+Supuestos:
+  - Corte mensual al día 1 (meses transcurridos = mes actual).
+  - Tarifas estándar vigentes 2024–2025: 3 recámaras $7,500; 4 recámaras $8,500.
+  - Si uno entre “meses pagados” o “monto pagado” es 0, se infiere con el otro.
+"""
+
 
 # ===============================================
 # CLASES PRINCIPALES
