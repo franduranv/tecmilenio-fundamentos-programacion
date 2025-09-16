@@ -3,7 +3,7 @@
 # Matrícula: AL07193847
 # Materia: Fundamentos de Programación
 # Docente: Jesús Carlos Morón García
-# Fecha de entrega: Septiembre 2025
+# Fecha de entrega: 15 Septiembre 2025
 # =====================================
 
 # -----------------------------
